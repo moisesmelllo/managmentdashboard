@@ -15,7 +15,7 @@ const Navbar = () => {
   
 
   return (
-    <div className='flex justify-around md:justify-between ml-4 md:mt-6 mt-2 items-center text-center'>
+    <div className='flex justify-around md:justify-between ml-8 md:mt-6 mt-2 md:mr-16 items-center text-center'>
       <div className="md:flex md:justify-center md:items-center md:mr-4">
         <h1 className="font-bold md:text-4xl md:mr-4">Dashboard</h1>
         <p className="text-start text-sm md:text-xl">12th Oct 2023</p>

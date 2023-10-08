@@ -39,7 +39,7 @@ const Sidebar = () => {
         </div>
         <SidebarButtons />
       </div>) : (
-        <div className='p-3 bg-softblue'>
+        <div className='p-3 bg-softblue dark:bg-[#444654]'>
         <WrapText 
           className='place-self-end p-0 m-0 cursor-pointer'
           onClick={handleClick}
